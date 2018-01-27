@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BankSampleProj\BankSampleProj\bin\Debug\BankSampleProj.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BankSampleProj\BankSampleProj\bin\Debug\BankSampleProj.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BankSampleProj\BankSampleProj\obj\Debug\BankSampleProj.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BankSampleProj\BankSampleProj\obj\Debug\BankSampleProj.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\BankSampleProj\BankSampleProj\obj\Debug\BankSampleProj.csprojResolveAssemblyReference.cache
